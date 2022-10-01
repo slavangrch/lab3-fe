@@ -1,0 +1,34 @@
+body {
+    font-family: sans-serif;
+    color: white;
+    margin: 0;
+  }
+  
+  .img {
+    display: flex;
+    justify-content: center;
+    background-color: #27a2c7;
+    padding: 1%;
+  }
+  
+  .wrapper-text {
+    display: flex;
+  }
+  
+  .text {
+    flex: 1;
+    padding: 18% 0;
+  }
+  
+  .text h1 {
+    margin-left: 18%;
+  }
+  
+  .text-left {
+    background-color: #8e8ee7;
+  }
+  
+  .text-right {
+    background-color:#b2f7fb;
+  }
+  
